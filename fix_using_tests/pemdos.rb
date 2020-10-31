@@ -5,5 +5,4 @@ def snake_it_up(string)
       print "sssssssss" + string
     end
   end
-end
 
